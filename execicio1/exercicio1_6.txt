@@ -1,0 +1,2 @@
+No item 3 a divisão resultou em 0, pois usava valores do tipo int.
+Nos itens 4 e 5 a divisão apareceu normalmente, e todas as outras variáveis saíram com um ponto flutuante.
