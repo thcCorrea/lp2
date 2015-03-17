@@ -1,0 +1,8 @@
+Variavel 3 = 7
+Variavel 4 = 10.5
+Variavel 5 = 10.0
+Variavel 4 e maior que 10.0
+Variavel 5 e menor igual a 10.0
+
+A variavel5 deu resultado igual a 10, pois a varivavel1 é inteira, e o ponto flutuante é ignorado pelo compilador.
+Já na variavel4 o ponto flutuante foi mantido por ter usado (float) antes da divisão.
