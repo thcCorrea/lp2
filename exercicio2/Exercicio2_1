@@ -1,0 +1,9 @@
+Definição:
+
+  Tipo Abstrato de Dados: São dados que encapsulam os atributos e definem as operações.
+
+  Classes: Define as caracteristicas de um objeto.
+
+  Objeto: É a instância de uma classe.
+
+  Mensagens: É o meio de comunicação dos objetos, eles definem o comportamentode algo quando se ultizam parâmetros.
