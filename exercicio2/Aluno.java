@@ -8,7 +8,7 @@ public class Aluno {
     String numeroMatricula;
     
     public void imprimirDadosCadastrais(){
-        System.out.println("Nome: " + this.nome + " - Idade: " + this.idade + " - Numero matricula: " + this.numeroMatricula);
+        System.out.println("Nome do aluno: " + this.nome + " - Idade do mesmo: " + this.idade + " - Numero matricula: " + this.numeroMatricula);
     }
     public static void main(String[] args) {
         Aluno um = new Aluno();
