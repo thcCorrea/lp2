@@ -1,4 +1,3 @@
-package verificadorcpf;
 
 import java.util.Scanner;
 
