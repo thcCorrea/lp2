@@ -1,5 +1,4 @@
 
-package contabancaria2;
 
 
 public class ContaBancaria2 {
