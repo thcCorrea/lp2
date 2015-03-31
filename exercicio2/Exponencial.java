@@ -1,5 +1,4 @@
 
-package exponencial;
 
 
 public class Exponencial {
