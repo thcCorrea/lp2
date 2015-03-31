@@ -1,5 +1,4 @@
 
-package calculadora;
 public class Calculadora {
 
         int variavel1;
